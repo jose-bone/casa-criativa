@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Registration system of ideas to make the moment
+  Registration system of ideas to make the moment <br/>
 of confinement by Covid-19 most interesting
 </h2>
 
