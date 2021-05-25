@@ -350,3 +350,9 @@ section#ideas,
 footer {
   margin-top: 64px;
 }
+
+@media (max-width: 1366px) {
+  html {
+    font-size: 80%;
+  }
+}
