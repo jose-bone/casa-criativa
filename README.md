@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Registration system of ideas to make the moment
+  Registration system of ideas to make the moment <br/>
 of confinement by Covid-19 most interesting
 </h2>
 
@@ -75,7 +75,7 @@ Access the application by **localhost: 3000**
 
 ## 📝 License
 
-This project is under the [MIT](/LICENSE) license. See the file for more details.
+This project is under the [MIT](/LICENSE.md) license. See the file for more details.
 
 <hr>
 
